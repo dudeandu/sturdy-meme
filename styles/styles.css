@@ -1,3 +1,7 @@
 body {
-    background: tomato;
+    background: #F8F8F8;
+}
+
+p {
+    color: darkgray;
 }
